@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC322: Asia-Pacific Politics"
+course_description: "An introductory course on the political systems of Northeast and Southeast Asia. Discusses pre- and post-colonial systems of government, Western imperialism, national liberation movements, and proxy wars, while exploring contemporary political issues."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Cold War Politics in East Asia** <span id="7"></span> 
 *In this unit, we will explore the impact of the Cold War between the
 U.S.S.R., its allies, and the U.S. and its allies on East Asia.  The

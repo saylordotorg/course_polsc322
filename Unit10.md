@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC322: Asia-Pacific Politics"
+course_description: "An introductory course on the political systems of Northeast and Southeast Asia. Discusses pre- and post-colonial systems of government, Western imperialism, national liberation movements, and proxy wars, while exploring contemporary political issues."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Politics and Government in Vietnam, Cambodia, and Laos,
 1975-Present** <span id="10"></span> 
 *In this unit, you will examine the politics and government in Vietnam,

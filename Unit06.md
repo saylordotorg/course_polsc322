@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC322: Asia-Pacific Politics"
+course_description: "An introductory course on the political systems of Northeast and Southeast Asia. Discusses pre- and post-colonial systems of government, Western imperialism, national liberation movements, and proxy wars, while exploring contemporary political issues."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Politics and Government in Japan,1945-Present** <span
 id="6"></span> 
 *In this unit, we will examine politics and government in Japan

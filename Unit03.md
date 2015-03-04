@@ -1,3 +1,10 @@
+---
+layout: default
+title: "POLSC322: Asia-Pacific Politics"
+course_description: "An introductory course on the political systems of Northeast and Southeast Asia. Discusses pre- and post-colonial systems of government, Western imperialism, national liberation movements, and proxy wars, while exploring contemporary political issues."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: The Impact of Western Imperialism on Government and Politics
 in East Asia During the 16th to Mid-20th Centuries** <span
 id="3"></span> 
