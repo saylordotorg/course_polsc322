@@ -142,3 +142,17 @@ and these influences may be difficult to understand as a Westerner.
  Keep in mind that generally speaking, Eastern religions have a much
 more collective orientation than do Judaism and Christianity, and
 collectivism is a common theme throughout Asian politics and governance.
+
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/polsc322/Unit01/)
+- [Unit 2](https://legacy.saylor.org/polsc322/Unit02/)
+- [Unit 3](https://legacy.saylor.org/polsc322/Unit03/)
+- [Unit 4](https://legacy.saylor.org/polsc322/Unit04/)
+- [Unit 5](https://legacy.saylor.org/polsc322/Unit05/)
+- [Unit 6](https://legacy.saylor.org/polsc322/Unit06/)
+- [Unit 7](https://legacy.saylor.org/polsc322/Unit07/)
+- [Unit 8](https://legacy.saylor.org/polsc322/Unit08/)
+- [Unit 9](https://legacy.saylor.org/polsc322/Unit09/)
+- [Unit 10](https://legacy.saylor.org/polsc322/Unit10/)
+- [Unit 11](https://legacy.saylor.org/polsc322/Unit11/)
