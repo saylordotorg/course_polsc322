@@ -149,4 +149,3 @@ collectivism is a common theme throughout Asian politics and governance.
 - [Unit 9](https://legacy.saylor.org/polsc322/Unit09/)
 - [Unit 10](https://legacy.saylor.org/polsc322/Unit10/)
 - [Unit 11](https://legacy.saylor.org/polsc322/Unit11/)
-- [Unit 12](https://legacy.saylor.org/polsc322/Unit12/)
