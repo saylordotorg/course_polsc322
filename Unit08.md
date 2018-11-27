@@ -60,7 +60,7 @@ id="8.1"></span> 
     Despite Nukes and Succession Issues, Its Status Quo”**
     Link: The Carnegie Council: Vincent Hsia’s “[The Two Koreas: Despite
     Nukes and Succession Issues, Its Status
-    Quo](http://www.saylor.org/site/wp-content/uploads/2012/05/hist322-8.1-The-Two-Koreas.pdf)”
+    Quo](https://resources.saylor.org/archived/wp-content/uploads/2012/05/hist322-8.1-The-Two-Koreas.pdf)”
     (PDF)  
         
      Instructions: Please read the article.  
@@ -159,12 +159,12 @@ id="8.2"></span> 
     Korea: What Next?”**
     Link: The Carnegie Council: Victor Cha and Joanne Myers’ “[North
     Korea: What
-    Next](http://www.saylor.org/site/wp-content/uploads/2011/08/Polsc322-8.2-Reading-ChaMyers.pdf)?”
+    Next](https://resources.saylor.org/archived/wp-content/uploads/2011/08/Polsc322-8.2-Reading-ChaMyers.pdf)?”
     (PDF)  
         
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/Polsc322-8.2-reading-chaMyersEpub.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/Polsc322-8.2-reading-chaMyersEpub.epub)  
         
      Instructions: Please go to the linked page and read the transcript
     of this panel discussion.  You may also click on the Flash Audio and

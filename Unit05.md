@@ -106,11 +106,11 @@ Upon successful completion of this unit, the student will be able to:
 -   **Reading: thinkquest.org: Discovering China: The Cultural
     Revolution**
     Link: thinkquest.org: *[Discovering China: The Cultural
-    Revolution](http://www.saylor.org/site/wp-content/uploads/2011/08/Polsc322-5.2-Reading-ThinkQuest.pdf) *(PDF)  
+    Revolution](https://resources.saylor.org/archived/wp-content/uploads/2011/08/Polsc322-5.2-Reading-ThinkQuest.pdf) *(PDF)  
       
      Also available in:  
 
-    [EPUB](http://www.saylor.org/site/wp-content/uploads/2011/08/Polsc322-5.2-Reading-thinkQuest.epub)  
+    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/Polsc322-5.2-Reading-thinkQuest.epub)  
         
      Instructions: Please read all sections of the material.  
         
