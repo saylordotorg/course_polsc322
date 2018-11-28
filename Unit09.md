@@ -110,12 +110,12 @@ id="9.2"></span> 
     “Indonesian Democracy: New Hope”**
     Link: The Carnegie Council: Theodore Friend and Joanne Myers’
     “[Indonesian Democracy: New
-    Hope](https://resources.saylor.org/archived/wp-content/uploads/2011/08/Polsc322-9.2-Reading-TheoFriend.pdf)”
+    Hope](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/Polsc322-9.2-Reading-TheoFriend.pdf)”
     (HTML)  
       
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/Polsc322-9.2-Reading-EPUB-theoFriend.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/Polsc322-9.2-Reading-EPUB-theoFriend.epub)  
         
      Instructions: Please go to the linked page and read the transcript
     of this panel discussion.   
